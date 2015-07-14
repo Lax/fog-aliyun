@@ -1,15 +1,19 @@
 # Fog::Aliyun
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/fog/aliyun`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+[![Fury](https://badge.fury.io/rb/fog-aliyun.png)](http://badge.fury.io/rb/fog-aliyun)
+[![Code Climate](https://codeclimate.com/github/Lax/fog-aliyun/badges/gpa.svg)](https://codeclimate.com/github/Lax/fog-aliyun)
+[![Test Coverage](https://codeclimate.com/github/Lax/fog-aliyun/badges/coverage.svg)](https://codeclimate.com/github/Lax/fog-aliyun/coverage)
+[![Travis](https://travis-ci.org/Lax/fog-aliyun.svg?branch=master)](https://travis-ci.org/Lax/fog-aliyun)
+[![CircleCI](https://circleci.com/gh/Lax/fog-aliyun/tree/master.png?style=shield)](https://circleci.com/gh/Lax/fog-aliyun)
+[![security](https://hakiri.io/github/Lax/fog-aliyun/master.svg)](https://hakiri.io/github/Lax/fog-aliyun/master)
+[![Dependency Status](https://gemnasium.com/Lax/fog-aliyun.svg)](https://gemnasium.com/Lax/fog-aliyun)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'fog-aliyun'
+gem 'fog-aliyun', :github => 'Lax/fog-aliyun'
 ```
 
 And then execute:
@@ -21,8 +25,6 @@ Or install it yourself as:
     $ gem install fog-aliyun
 
 ## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
